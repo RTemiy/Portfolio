@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -30,5 +29,14 @@
   },
   "dependencies": {
     "core-js": "^3.33.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTemiy/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RTemiy/Portfolio/issues"
+  },
+  "homepage": "https://github.com/RTemiy/Portfolio#readme",
+  "description": ""
 }
